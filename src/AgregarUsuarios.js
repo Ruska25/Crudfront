@@ -41,7 +41,7 @@ function AgregarUsuario() {
       </div>
 
       <div className="row">
-        <div className=" col-sm-6 offset-3">
+        <div className=" col-sm-6 offset-1">
           <div className=" mb-3">
             <label htmlFor="nombre" className="form-label">
               Nombre
